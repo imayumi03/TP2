@@ -1,0 +1,40 @@
+{
+  "os":  "Windows-10-10.0.26100-SP0",
+  "python":  "CPython 3.9.21",
+  "startedAt":  "2025-03-21T11:38:50.984276Z",
+  "program":  "<python with no main file>",
+  "git":  {
+    "remote":  "https://github.com/imayumi03/TP2.git",
+    "commit":  "4827a602bf574fc5a3fca0b4867086949092c58e"
+  },
+  "email":  "mouniaabdelmoumni12@gmail.com",
+  "root":  "c:\\Users\\Lenovo Gaming\\TP2",
+  "host":  "DESKTOP-M9UKG63",
+  "executable":  "c:\\Users\\Lenovo Gaming\\anaconda3\\envs\\deep_hedging\\python.exe",
+  "cpu_count":  4,
+  "cpu_count_logical":  8,
+  "gpu":  "NVIDIA GeForce RTX 3050 Ti Laptop GPU",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "510941601792",
+      "used":  "508296413184"
+    }
+  },
+  "memory":  {
+    "total":  "16952647680"
+  },
+  "cpu":  {
+    "count":  4,
+    "countLogical":  8
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce RTX 3050 Ti Laptop GPU",
+      "memoryTotal":  "4294967296",
+      "cudaCores":  2560,
+      "architecture":  "Ampere"
+    }
+  ],
+  "cudaVersion":  "12.6"
+}

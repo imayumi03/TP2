@@ -1,0 +1,16 @@
+{"time":"2025-03-21T11:38:50.9877896Z","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\Lenovo Gaming\\TP2\\wandb\\run-20250321_113850-e5uj291i\\logs\\debug-core.log"}
+{"time":"2025-03-21T11:38:51.319721Z","level":"INFO","msg":"created new stream","id":"e5uj291i"}
+{"time":"2025-03-21T11:38:51.319721Z","level":"INFO","msg":"stream: started","id":"e5uj291i"}
+{"time":"2025-03-21T11:38:51.319721Z","level":"INFO","msg":"sender: started","stream_id":"e5uj291i"}
+{"time":"2025-03-21T11:38:51.319721Z","level":"INFO","msg":"writer: Do: started","stream_id":"e5uj291i"}
+{"time":"2025-03-21T11:38:51.319721Z","level":"INFO","msg":"handler: started","stream_id":"e5uj291i"}
+{"time":"2025-03-21T11:38:52.4009415Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-21T11:38:58.8221462Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-21T11:38:58.822653Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-21T11:38:59.8294142Z","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.0090292,"progress":"678B/678B"}],"total_operations":1}}
+{"time":"2025-03-21T11:39:00.0677986Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-21T11:39:01.3027425Z","level":"INFO","msg":"stream: closing","id":"e5uj291i"}
+{"time":"2025-03-21T11:39:01.3027425Z","level":"INFO","msg":"handler: closed","stream_id":"e5uj291i"}
+{"time":"2025-03-21T11:39:01.3027425Z","level":"INFO","msg":"writer: Close: closed","stream_id":"e5uj291i"}
+{"time":"2025-03-21T11:39:01.3032681Z","level":"INFO","msg":"sender: closed","stream_id":"e5uj291i"}
+{"time":"2025-03-21T11:39:01.3035937Z","level":"INFO","msg":"stream: closed","id":"e5uj291i"}
